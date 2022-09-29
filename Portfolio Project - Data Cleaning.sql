@@ -1,25 +1,3 @@
-/****** Script for SelectTopNRows command from SSMS  ******/
---SELECT TOP (1000) [UniqueID ]
---      ,[ParcelID]
---      ,[LandUse]
---      ,[PropertyAddress]
---      ,[SaleDate]
---      ,[SalePrice]
---      ,[LegalReference]
---      ,[SoldAsVacant]
---      ,[OwnerName]
---      ,[OwnerAddress]
---      ,[Acreage]
---      ,[TaxDistrict]
---      ,[LandValue]
---      ,[BuildingValue]
---      ,[TotalValue]
---      ,[YearBuilt]
---      ,[Bedrooms]
---      ,[FullBath]
---      ,[HalfBath]
---  FROM [PortfolioProject].[dbo].[NashvilleHousing]
-
 ----CLEANING DATA IN SQL QUERIES
 
 SELECT *
